@@ -1,13 +1,21 @@
 # Copiloto-IA-aplicada-a-vendas-marca-FYS
 O FYS Opportunity AI transforma visitas comerciais em oportunidades de crescimento. Utilizando Inteligência Artificial, identifica clientes com potencial para FYS e fornece recomendações antes da visita, ajudando os vendedores a ampliar a presença da marca, aumentar o giro dos produtos e impulsionar resultados no canal padaria de São Paulo.
+
 O tema que ecolhi foi o FYS e a dificuldade que presenta nas padarias.
+
 A solução tem como usuário principal a forma de abordagem do vendedor na hora de conversar sobre Fys dentro do PDV.
 A proposta usa Inteligência Artificial para analisar informações comerciais, identificar oportunidades de crescimento e preparar o vendedor antes de cada visita. Em vez de gerar mais trabalho, a IA oferece recomendações simples e práticas sobre quais clientes priorizar, quais produtos oferecer e quais são as oportunidades com maior probabilidade de sucesso.
+
 Use a análise de dados para realizar a abordagem da IA nesse problema que a área de vendas da Heineken enfrenta.
+
 Embora não haja informações ou números exatos sobre o faturamento de vendas da Fys, use como referência as conversas que surgiram na mentoria que houve: Fys por dentro da marca.  
+
 Além disso, busquei informação pública sobre os canais onde há mais demanda de outros produtos similares à Fys, para ter em mente onde é a prioridade de vendas da marca, já que há estabelecimentos que vão ter maior e melhor giro do produto. Classifiquei em prioridades BAIXA, MÉDIA e ALTA, e as características dos estabelecimentos serão encaixadas de forma automática depois da verificação dos dados e históricos de compras.
+
 Lo que la IA analiza antes de la visita: Cliente e Historico. 
+
 Exemplo de conversa: 
+
 Vendedor:
 
 Bom dia, João! Como estão as vendas esta semana?
@@ -59,7 +67,9 @@ Tudo bem, vamos testar.
 Vendedor:
 
 Perfeito. Vou incluir o pedido e, na próxima visita, trago os resultados e avaliamos novas oportunidades para a categoria.
+
 Possiveis melhorias futuras: 
+
 Com FYS Opportunity AI:
 
 O vendedor chega com uma oportunidade identificada.
